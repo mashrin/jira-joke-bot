@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: forge-joke-bot
+      function: main
+      title: forge-joke-bot
+      description: Generate jokes for developers
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/289af91a-f992-4074-8233-c653f0a9fff0'
+  name: forge-joke-bot
