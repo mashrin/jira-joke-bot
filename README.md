@@ -1,6 +1,6 @@
 # JIRA Joke Bot
 
-This project contains a Forge app written in Javascript that shows a random non-racist, non-sexist, non-polical, non-NSFW and non-religious Programming joke to the developers. And give them a few well-deserved laughs in the middle of their work and bug fixes.
+This project contains a Forge app written in Javascript that shows a random non-racist, non-sexist, non-political, non-NSFW and non-religious Programming joke to the developers. And give them a few well-deserved laughs in the middle of their work and bug fixes.
 
 ## Requirements
 
