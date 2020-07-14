@@ -1,5 +1,9 @@
 # JIRA Joke Bot
 
+Test it here: https://jokebot.atlassian.net/projects/JOK/issues/JOK-1
+
+(Access given to testing@devpost.com - Email me at mashrins@gmail.com for any access related issues. Will quickly resolve.)
+
 This project contains a Forge app written in Javascript that shows a random non-racist, non-sexist, non-political, non-NSFW and non-religious Programming joke to the developers. And give them a few well-deserved laughs in the middle of their work and bug fixes.
 
 ## Requirements
